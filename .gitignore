@@ -20,7 +20,6 @@
 .deps
 .libs
 *.la
-*.txt
 *.gcda
 *.vspx
 *.vs
